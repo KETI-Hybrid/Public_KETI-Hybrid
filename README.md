@@ -1,1 +1,1 @@
-# Pubulic_KETI-Hybrid
+# Public_KETI-Hybrid
